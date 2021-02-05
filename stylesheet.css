@@ -1,0 +1,25 @@
+*{
+	font-family: 'Acme', sans-serif;
+}
+
+html {
+  	background-image: url("pics/Marianna Raskin_ Photo.gif");
+  	background-repeat: repeat; 
+	background-size: 222px 273px;
+}
+
+img.logo {
+	position: absolute;
+ 	top: 3px;
+  	left: 37%;
+}
+
+h1 {
+	padding: 350px 0;
+	text-align: center;
+  	color: #FFFDFD;
+	font-size: 60px;
+  	line-height: 46px;
+}
+/* CSS Document */
+
